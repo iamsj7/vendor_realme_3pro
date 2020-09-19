@@ -29,6 +29,15 @@ PRODUCT_COPY_FILES += \
     vendor/realme/RMX1851/proprietary/etc/permissions/qti_permissions.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/permissions/qti_permissions.xml \
     vendor/realme/RMX1851/proprietary/etc/sysconfig/qti_whitelist.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/sysconfig/qti_whitelist.xml \
     vendor/realme/RMX1851/proprietary/etc/wfdconfigsink.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/wfdconfigsink.xml \
+    vendor/realme/RMX1851/proprietary/firmware/a_fp.b00:$(TARGET_COPY_OUT_SYSTEM)/firmware/a_fp.b00 \
+    vendor/realme/RMX1851/proprietary/firmware/a_fp.b01:$(TARGET_COPY_OUT_SYSTEM)/firmware/a_fp.b01 \
+    vendor/realme/RMX1851/proprietary/firmware/a_fp.b02:$(TARGET_COPY_OUT_SYSTEM)/firmware/a_fp.b02 \
+    vendor/realme/RMX1851/proprietary/firmware/a_fp.b03:$(TARGET_COPY_OUT_SYSTEM)/firmware/a_fp.b03 \
+    vendor/realme/RMX1851/proprietary/firmware/a_fp.b04:$(TARGET_COPY_OUT_SYSTEM)/firmware/a_fp.b04 \
+    vendor/realme/RMX1851/proprietary/firmware/a_fp.b05:$(TARGET_COPY_OUT_SYSTEM)/firmware/a_fp.b05 \
+    vendor/realme/RMX1851/proprietary/firmware/a_fp.b06:$(TARGET_COPY_OUT_SYSTEM)/firmware/a_fp.b06 \
+    vendor/realme/RMX1851/proprietary/firmware/a_fp.b07:$(TARGET_COPY_OUT_SYSTEM)/firmware/a_fp.b07 \
+    vendor/realme/RMX1851/proprietary/firmware/a_fp.mdt:$(TARGET_COPY_OUT_SYSTEM)/firmware/a_fp.mdt \
     vendor/realme/RMX1851/proprietary/framework/tcmclient.jar:$(TARGET_COPY_OUT_SYSTEM)/framework/tcmclient.jar \
     vendor/realme/RMX1851/proprietary/lib/com.qualcomm.qti.wifidisplayhal@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib/com.qualcomm.qti.wifidisplayhal@1.0.so \
     vendor/realme/RMX1851/proprietary/lib/libFileMux.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libFileMux.so \
